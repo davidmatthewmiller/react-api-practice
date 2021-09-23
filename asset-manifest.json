@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-practice-robofriends/static/css/main.e2a8c06a.chunk.css",
+    "main.js": "/react-practice-robofriends/static/js/main.b5401f22.chunk.js",
+    "main.js.map": "/react-practice-robofriends/static/js/main.b5401f22.chunk.js.map",
+    "runtime-main.js": "/react-practice-robofriends/static/js/runtime-main.4bc93ff4.js",
+    "runtime-main.js.map": "/react-practice-robofriends/static/js/runtime-main.4bc93ff4.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/react-practice-robofriends/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.c584b16b.chunk.js": "/react-practice-robofriends/static/js/2.c584b16b.chunk.js",
+    "static/js/2.c584b16b.chunk.js.map": "/react-practice-robofriends/static/js/2.c584b16b.chunk.js.map",
+    "static/js/3.fd12fa95.chunk.js": "/react-practice-robofriends/static/js/3.fd12fa95.chunk.js",
+    "static/js/3.fd12fa95.chunk.js.map": "/react-practice-robofriends/static/js/3.fd12fa95.chunk.js.map",
+    "index.html": "/react-practice-robofriends/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/react-practice-robofriends/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.e2a8c06a.chunk.css.map": "/react-practice-robofriends/static/css/main.e2a8c06a.chunk.css.map",
+    "static/js/2.c584b16b.chunk.js.LICENSE.txt": "/react-practice-robofriends/static/js/2.c584b16b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-practice-robofriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bc93ff4.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.c584b16b.chunk.js",
+    "static/css/main.e2a8c06a.chunk.css",
+    "static/js/main.b5401f22.chunk.js"
+  ]
+}
